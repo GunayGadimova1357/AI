@@ -1,0 +1,94 @@
+############################
+# Системные файлы
+############################
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.tmp
+*.cache
+
+############################
+# Python: Кэш и компиляция
+############################
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+############################
+# Виртуальные окружения
+############################
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+bin/
+lib/
+include/
+share/
+
+############################
+# Jupyter Notebook
+############################
+.ipynb_checkpoints/
+.jupyter/
+*-checkpoint.ipynb
+# Выходные файлы после конвертации (PDF, HTML)
+*.nbconvert.ipynb
+# Если используете расширения для управления переменными
+.ipython/
+
+############################
+# Веб-разработка (Django / FastAPI / React)
+############################
+.env
+.env.*
+!.env.example
+node_modules/
+static/
+media/
+db.sqlite3
+*.sqlite3-journal
+
+############################
+# Сборка и пакеты
+############################
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+# Локи лучше коммитить, но если решили игнорировать — раскомментируйте:
+# poetry.lock
+# Pipfile.lock
+
+############################
+# IDE (VS Code, PyCharm)
+############################
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.iml
+
+############################
+# Тесты и качество кода
+############################
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.python-version
+
+############################
+# Логи
+############################
+*.log
+logs/
