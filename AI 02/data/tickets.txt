@@ -1,0 +1,13 @@
+Movie	City	Tickets Sold
+Inception	New York	120
+Avatar	London	200
+Interstellar	Paris	150
+The Dark Knight	Tokyo	180
+Titanic	Berlin	210
+Inception	Los Angeles	170
+Avatar	Madrid	190
+Interstellar	Rome	160
+Titanic	Chicago	140
+The Dark Knight	Toronto	175
+Inception	Sydney	220
+Avatar	Dubai	205
