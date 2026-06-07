@@ -27,5 +27,19 @@ public class AIController : ControllerBase
         var prediction = await res.Content.ReadFromJsonAsync<PredictOutPython>();
         return Ok(prediction);
     }
+
+    [HttpPost("apartments")]
+    public async Task<IActionResult> AddApartment([FromBody] ApartmentIn apartment)
+    {
+        var res = await _httpClient.PostAsJsonAsync("/apartments", apartment);
+
+        if (!res.IsSuccessStatusCode)
+        {
+            return StatusCode((int)res.StatusCode, await res.Content.ReadAsStringAsync());
+        }
+
+        var content = await res.Content.ReadAsStringAsync();
+        return Content(content, "application/json");
+    }
     
 }
