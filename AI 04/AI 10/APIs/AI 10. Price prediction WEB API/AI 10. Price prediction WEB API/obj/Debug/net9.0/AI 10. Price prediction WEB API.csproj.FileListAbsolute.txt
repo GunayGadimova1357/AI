@@ -1,0 +1,36 @@
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/appsettings.Development.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/appsettings.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/AI 10. Price prediction WEB API.staticwebassets.endpoints.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/AI 10. Price prediction WEB API
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/AI 10. Price prediction WEB API.deps.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/AI 10. Price prediction WEB API.runtimeconfig.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/AI 10. Price prediction WEB API.dll
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/AI 10. Price prediction WEB API.pdb
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.csproj.AssemblyReference.cache
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.AssemblyInfoInputs.cache
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.AssemblyInfo.cs
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.csproj.CoreCompileInputs.cache
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.MvcApplicationPartsAssemblyInfo.cs
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.MvcApplicationPartsAssemblyInfo.cache
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.sourcelink.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/scopedcss/bundle/AI 10. Price prediction WEB API.styles.css
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets/msbuild.AI 10. Price prediction WEB API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets/msbuild.AI 10. Price prediction WEB API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets/msbuild.build.AI 10. Price prediction WEB API.props
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.AI 10. Price prediction WEB API.props
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.AI 10. Price prediction WEB API.props
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. P.EC5E72EC.Up2Date
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.dll
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/refint/AI 10. Price prediction WEB API.dll
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.pdb
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/AI 10. Price prediction WEB API.genruntimeconfig.cache
+/Users/xalida/Documents/GitHub/AI/AI 04/AI 10/APIs/AI 10. Price prediction WEB API/AI 10. Price prediction WEB API/obj/Debug/net9.0/ref/AI 10. Price prediction WEB API.dll

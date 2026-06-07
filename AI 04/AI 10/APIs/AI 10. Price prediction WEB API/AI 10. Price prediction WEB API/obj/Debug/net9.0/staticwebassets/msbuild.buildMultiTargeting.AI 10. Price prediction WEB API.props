@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/AI 10. Price prediction WEB API.props" />
+</Project>
