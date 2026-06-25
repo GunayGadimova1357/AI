@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AI 10. Price prediction WEB API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8525257a8462cea8693f7ce95183adf3479d05dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+727b4bb9adb928cb5b385105cf5f23529f65b849")]
 [assembly: System.Reflection.AssemblyProductAttribute("AI 10. Price prediction WEB API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AI 10. Price prediction WEB API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
